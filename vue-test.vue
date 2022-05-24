@@ -56,6 +56,9 @@
             <div
               v-for="file in fileList"
               class="file-card"
+              fsfsd《的方式发送>
+              d
+              fsfsclasdfsdf
               :key="file.uid"
               @click.stop="viewPdf(file)"
               v-if="fileList.length > 0"
